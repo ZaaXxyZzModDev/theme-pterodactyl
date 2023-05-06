@@ -1,4 +1,4 @@
-# MinecraftPurpleTheme
+# Theme-pterodactyl
 
 Install script:
 ```sh
